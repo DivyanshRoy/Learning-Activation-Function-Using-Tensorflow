@@ -6,4 +6,4 @@ Activation Function unofficial implementation based on https://arxiv.org/abs/141
 
 ### Performance:-
 ####   MNIST: ~99.55 accuracy 
-####   CIFAR10: ~91.0 accuracy
+####   CIFAR10: ~90.0 accuracy
